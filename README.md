@@ -1,7 +1,7 @@
 # Group members
 Ryazanov
 Zhiharev
-Kuznetsov
+Kuznetsov Pavel
 Kim
 
 Group EN2-51
