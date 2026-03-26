@@ -1,1 +1,5 @@
-# My_First_Test_Repo
+# Group members
+Ryazanov Nikolay
+Ivan Zhiharev
+Pavel Kuznetsov
+Leonid Kim
