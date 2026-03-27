@@ -1,6 +1,6 @@
 # Group members
 Ryazanov
-Zhiharev
+Smolyakov Ivan
 Kuznetsov Pavel
 Kim
 
