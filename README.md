@@ -1,5 +1,5 @@
 # Group members
-Ryazanov
+Ryazanov Nikolay
 Smolyakov Ivan
 Kuznetsov Pavel
 Kim
